@@ -48,7 +48,7 @@ button:hover{
 
 button:active{
     transform: translateY(10px);
-    box-shadow: 2px 50px 100px black;
+/*     box-shadow: 2px 50px 100px black; */
 }
 .green{
     background-color: green;
