@@ -34,7 +34,7 @@ button{
     height: 4rem;
     font-size: 2rem;
     border-radius: 50px;
-    box-shadow: 5px 100px 100px black;
+/*     box-shadow: 5px 100px 100px black; */
     border: 2px double rgb(132, 132, 50);
 }
 
